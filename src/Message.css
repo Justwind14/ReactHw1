@@ -1,0 +1,11 @@
+.Monkeyfact {
+    background-color: lightgray;
+    font-size: 20px;
+    text-align: center;
+    color: blueviolet;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 600px;
+
+}
